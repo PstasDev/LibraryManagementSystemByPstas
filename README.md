@@ -30,8 +30,7 @@ This is a multi-user Library/Book management system for free. If you made some e
 - No **Video Card** required
 #### Basic information
 - Available languages
-  - 🇬🇧 English US(United States English, I could not find the flag of the United States) 
-  - 🇭🇺 *Magyar*(Hungarian)\*
-- You only need 2 files to download. The Installer file, and the main file which will work when you run the setup at the first time.
+  - English US(United States English, I could not find the flag of the United States) 
+  - *Magyar*(Hungarian)\*
 - **LISCENSE -** Mozilla Public License 2.0
 ###### \*Coming soon
