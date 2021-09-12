@@ -10,7 +10,7 @@ This is a multi-user Library/Book management system for free. If you made some e
 3. Unzip the .zip to the Desktop or if you cloned it to the GitHub Desktop, copy the folder to the desktop
 4. Make sure you have Pyhton. If you don't have Python, follow the instructions of installing Pyhton under the ***Windows Installation Guide***
 5. Run the *setup.py* file, and follow the instructions
-6. If the installation was successfull, run the main..py
+6. If the installation was successfull, run the main.py
 7. Enjoy! Or work with it happily :D
 ###### \*Currently the software is only for Windows, because of i can't test it on other Operation Systems and i didn't wanted this to work on mobile
 
