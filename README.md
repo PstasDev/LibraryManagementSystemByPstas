@@ -32,5 +32,4 @@ This is a multi-user Library/Book management system for free. If you made some e
 - Available languages
   - English US(United States English, I could not find the flag of the United States) 
   - *Magyar*(Hungarian)\*
-- **LISCENSE -** Mozilla Public License 2.0
 ###### \*Coming soon
